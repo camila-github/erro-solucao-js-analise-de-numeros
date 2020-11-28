@@ -35,7 +35,7 @@ var numPar = 0,
     numImpar = 0,
     numPostitivo = 0,
     numNegativo = 0;
-//Leitura de cinco numeros
+/*Leitura de cinco numeros*/
 for (var i = 0; i < 5; i++) {
     var num = parseInt(gets());
     /*As condições são para verificar o mesmo numero em situações diferentes*/
